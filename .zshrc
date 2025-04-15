@@ -1,0 +1,6 @@
+export HOSTNAME=$(hostname)
+export UID=$(id -u)
+export HOSTNAME=$(hostname)
+export UID=$(id -u)
+export HOSTNAME=$(hostname)
+export UID=$(id -u)
